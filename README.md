@@ -18,9 +18,5 @@
 ---
 **Reference URL**
 
-> https://wiki.ros.org
-  
-> https://www.youtube.com/watch?v=ot_D9N-H4lQ&list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw
-  
-> https://cafe.naver.com/openrt
+> https://wiki.ros.org/laser_filters
 
